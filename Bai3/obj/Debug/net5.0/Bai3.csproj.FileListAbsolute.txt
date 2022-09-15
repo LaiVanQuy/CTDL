@@ -1,0 +1,16 @@
+D:\All My Project\c#\Bai3\bin\Debug\net5.0\Bai3.exe
+D:\All My Project\c#\Bai3\bin\Debug\net5.0\Bai3.deps.json
+D:\All My Project\c#\Bai3\bin\Debug\net5.0\Bai3.runtimeconfig.json
+D:\All My Project\c#\Bai3\bin\Debug\net5.0\Bai3.runtimeconfig.dev.json
+D:\All My Project\c#\Bai3\bin\Debug\net5.0\Bai3.dll
+D:\All My Project\c#\Bai3\bin\Debug\net5.0\ref\Bai3.dll
+D:\All My Project\c#\Bai3\bin\Debug\net5.0\Bai3.pdb
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.csproj.AssemblyReference.cache
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.AssemblyInfoInputs.cache
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.AssemblyInfo.cs
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.csproj.CoreCompileInputs.cache
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.dll
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\ref\Bai3.dll
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.pdb
+D:\All My Project\c#\Bai3\obj\Debug\net5.0\Bai3.genruntimeconfig.cache

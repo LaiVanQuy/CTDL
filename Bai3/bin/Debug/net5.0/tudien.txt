@@ -1,0 +1,402 @@
+Table
+n
+Cái bàn
+Peach
+n
+Trái đào
+Sit
+v
+Ngồi
+Ask
+v
+Hỏi
+Beautiful
+adj
+Đẹp
+Constant
+adj
+Liên tục
+Digest
+v
+Tiêu hóa
+Eagle
+n 
+Đại bàng
+Fun
+n
+Vui
+Girl
+n
+Con gái
+Hollow
+adj
+Rỗng
+Ignite
+v
+Châm lửa
+Jealous
+adj
+Ghen
+Knight
+n
+Hiệp sĩ
+Love
+n
+Tình yêu
+Moon
+n
+Mặt trăng
+Night
+n
+Ban đêm
+Open
+v
+Mở
+Peanut
+n
+Đậu phộng
+Quick
+adj
+Nhanh
+Run
+v
+Chạy
+Square
+adj
+Vuông
+Thin
+adj
+Mỏng
+Usable
+adj
+Có thể dùng
+Vacancy
+n
+Chỗ trống
+Want
+v
+Muốn
+Xylocarp
+n
+Cây có quả mộc
+Year
+n
+Năm
+Zealot
+n 
+Người cuồng tín
+Ambient
+adj
+Bao quanh
+Boost
+v
+Tăng lên
+Color
+n 
+Màu
+Dabber
+n
+Người đánh nhẹ
+Emanate
+v
+Phát ra
+Doufulness
+adj
+Sự buồn rầu
+Fast
+adj
+Nhanh
+Gas
+n
+Khí gas
+Hash
+v
+Băm
+Icon
+n
+Biểu tượng
+Jasmine
+n
+Cây hoa nhài
+King
+n
+Vua
+Minusvule
+v
+Nhỏ
+Nail
+n
+Móng tay
+Octopus
+n
+Bạch tuộc
+Pen
+n
+Bút
+Queen
+n
+Hoàng hậu
+Rush
+v
+gấp rút
+Silver
+n
+Bạc
+Tin
+n
+Thiếc
+Union
+n
+Sự thống nhất
+Van
+n
+Xe hàng
+Win
+n
+Chiến thắng
+Xmas
+n
+Viết tắt của Christmas
+Young
+adj
+Trẻ
+Zeal
+n
+Lòng hăng hái
+Action
+n
+Hành động
+Ban
+v
+Cấm
+Cut
+v
+Cắt
+Define
+v
+Định nghĩa
+Ease
+n
+Sự thoải mái
+Finance
+n
+Tài chính
+Gun
+n
+Súng
+Hiker
+n
+Người đi bộ đường dài
+Imbalnce
+n
+Sự mất cân đối
+Juntion
+n
+Sự nối liền
+Kidnap
+v
+Bắt cóc
+Liability
+n
+Trách nhiệm pháp lí
+Miniature
+n
+Bức tiểu họa
+Neolithic
+adj
+Thuộc thời kì đồ đá mới
+Occasion
+n
+Dịp, cơ hội, lí do
+Push
+v
+Đẩy
+Quantity
+n
+Số lượng
+Rascality
+n
+Tính côn đồ
+Seal
+n
+Hải cẩu
+Tax
+n
+Thuế
+Unsafe
+adj
+Không an toàn
+Venal
+adj
+Dễ mua chuộc
+Wax
+n
+Sáp
+Xylophone
+n
+Đàn mộc
+Yellow
+n
+Màu vàng
+Zoic
+adj
+Có tính hóa thạch
+Ancient
+adj
+Cổ xưa
+Blow
+v
+thổi
+Characteristic
+adj
+Tính chất, Đặc thù
+Dash
+n
+Sự lao tới
+Eclipse
+n
+Thiện thực
+Frustrate
+v
+Ngăn trở
+Glass
+n
+Kính
+Handle
+v
+Xử lý
+Illusion
+n
+Ảo giác
+Jade
+n
+Ngọc thạch
+Knock
+n
+Cú gõ
+Land
+n
+Đất
+Mouse
+n
+Chuột
+Nisus
+n
+Sự cố gắng
+October
+n
+Tháng mười
+Principle
+n
+Nguyên lí
+Queasy
+adj
+Hay bị nôn mửa
+Random
+adj
+Ngẫu nhiên
+Squarrel
+n
+Con sóc
+Tinctorial
+adj
+Thuộc thuốc nhuộm
+Usage
+n
+Cách dùng
+Vulnerable
+adj
+Dễ bị tổn thương
+Wash
+v
+Rửa
+Xerox
+n
+Máy sao chụp
+Yatch
+n
+Du thuỳen
+Zest
+n
+Sự say mê
+Zeus
+n
+Thần Dớt
+Accessory
+n
+Phụ tùng
+Biology
+n
+Sinh vật học
+Cast
+v
+ném
+Diverse
+adj
+Tính đa dạng
+Follow
+v
+Theo dõi
+Gander
+n
+Ngỗng đực
+Hall
+n
+Sảnh
+Innovate
+v
+Đổi mới
+July
+n
+Tháng bảy
+Kidney
+n
+Thận
+Lunch
+n
+Bữa trưa
+Mask
+n
+Mặt nạ
+Nice
+adj
+Tốt
+Oscillate
+v
+Dao động
+Past
+n
+Quá khứ
+Quarantine
+n
+Sự cách ly
+Race
+n
+Cuộc đua
+Simple
+adj
+Đơn giản
+Illuminate
+v
+Chiếu sáng
+Tune
+n
+Nhạc
+Ulcerative
+v
+Gây loét
+Vegetalbe
+n
+Rau, củ, quả
+Wound
+n
+Vết thương
+Xylene
+n
+Hợp chất hữu cơ
+Yolk
+n
+Lòng đỏ trứng
+Zipper
+n
+Khóa kéo
